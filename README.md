@@ -1,2 +1,2 @@
 # TodoApp
-Todo App website 
+A Todo App website with database for storing user todo and account details
