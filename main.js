@@ -1,5 +1,3 @@
-// mongodb+srv://cat:<password>@cluster0.irmakxy.mongodb.net/?retryWrites=true&w=majority
-
 
 const express = require("express");
 const fs = require("fs");
